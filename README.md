@@ -22,5 +22,4 @@ Send us your own summaries to solve the challenges, you can do it through a DM t
 ## Contributors
 | No  | Ctry  | Nick  | Challenge  |
 | ------------ | ------------ | ------------ | ------------ |
-| 1  | :tw-1f1ea-1f1f8:  |   |   |
-|
+|  1  |   |   |   |
