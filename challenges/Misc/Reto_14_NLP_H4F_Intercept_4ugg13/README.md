@@ -1,8 +1,8 @@
 ## Description
 
-** Name: ** Intercept (4ugg13)
-** Release date: ** September 25, 2018
-** Author: ** [1v4n](https://twitter.com/1r0Dm48O)
+**Name:** Intercept (4ugg13)
+**Release date:** September 25, 2018
+**Author:** [1v4n](https://twitter.com/1r0Dm48O)
 **Category:** Misc
 **Difficulty:** Medium-Low
 
@@ -14,4 +14,9 @@ Format of the flag: *flag{text}*
 
 ## Posted
 
-![hackers4fun_reto_14_post_tw](challenges\Misc\Reto_14_NLP_H4F_Intercept_4ugg13\Reto_14_tw_post.png)
+![hackers4fun_reto_14_post_tw](./Reto_14_tw_post.png)
+[Link](https://twitter.com/Hackers4F/status/1044580319217704960)
+
+## Mentions
+
+👏👏👏 Thanks to [@danilabs](https://twitter.com/danilabs) for offering to collaborate in the #Challenges of #Ethicalhacking #CyberSecurity #Navarralanparty
