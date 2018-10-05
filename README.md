@@ -23,4 +23,4 @@ Send us your own summaries to solve the challenges, you can do it through a DM t
 
 | No  | Ctry  | Nick  | Challenge  |
 | ------------ | ------------ | ------------ | ------------ |
-|  1  |   |   |   |
+|  1  | 🇪🇸 |   |   |
