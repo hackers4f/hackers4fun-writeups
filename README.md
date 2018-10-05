@@ -1,6 +1,6 @@
 # Hackers4Fun-Challenges-Writeups
 Writeups for challenges written in Spanish or English posted in:
-:fa-twitter-square: https://twitter.com/hackers4f
+<i class="fab fa-twitter-square"></i> https://twitter.com/hackers4f
 :fa-facebook-square: https://www.facebook.com/Hackers4F
 :fa-instagram: https://www.instagram.com/hackers4f/
 ![hackers4fun_writeups_logo](https://github.com/hackers4f/hackers4fun-writeups/raw/master/images/T34m_l0G0_H4F.jpg)
