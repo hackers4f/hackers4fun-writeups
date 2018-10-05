@@ -23,5 +23,5 @@ Send us your own summaries to solve the challenges, you can do it through a DM t
 
 | Nick  | Challenge | Writeup |
 | ------------ | ------------ | ------------ |
-| [1v4n](https://twitter.com/1r0Dm48O) | Intercept (4ugg13) | [Writeup](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/Reto_14_NLP_H4F_Intercept_4ugg13/LNP-Challenges-Misc-4ugg13-H4F-1v4n_.pdf) |
 | [vlfern](https://twitter.com/vlfern) | Intercept (4ugg13) | [vlfern Writeup online](http://www.elblogdevictor.es/writeup-reto-14-ctf-h4f-navarralanparty/) && [writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/Reto_14_NLP_H4F_Intercept_4ugg13/Intercept_4ugg13_Reto_14_H4F_vlem.pdf) |
+| [1v4n](https://twitter.com/1r0Dm48O) | Intercept (4ugg13) | [Writeup](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/Reto_14_NLP_H4F_Intercept_4ugg13/LNP-Challenges-Misc-4ugg13-H4F-1v4n_.pdf) |
