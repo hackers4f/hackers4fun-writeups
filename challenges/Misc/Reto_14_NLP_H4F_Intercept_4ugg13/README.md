@@ -22,6 +22,7 @@ Format of the flag: *flag{text}*
 - 🥇 [@ZumodeNaranjo](https://twitter.com/ZumodeNaranjo)
 - 🥈 [@julianmenendez](https://twitter.com/julianmenendez)
 - 🥉 [@thomeze](https://twitter.com/thomeze)
+- 4th [@vlfern](https://twitter.com/vlfern)
 
 ## Writeups
 
