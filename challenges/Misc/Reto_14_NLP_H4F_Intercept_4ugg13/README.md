@@ -25,9 +25,8 @@ Format of the flag: *flag{text}*
 
 ## Writeups
 
-- 👍🏆[vlfern](http://www.elblogdevictor.es/writeup-reto-14-ctf-h4f-navarralanparty/) && [Link](/vlem_writeup_Reto-14_H4F)
+- 👍🏆[vlfern](http://www.elblogdevictor.es/writeup-reto-14-ctf-h4f-navarralanparty/) && [Link](/Intercept_4ugg13_Reto_14_H4F_vlem.pdf)
 - Author [1v4n](/LNP-Challenges-Misc-4ugg13-H4F-1v4n_.pdf)
-
 
 ## Mentions
 
