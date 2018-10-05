@@ -1,8 +1,10 @@
 # Hackers4Fun-Challenges-Writeups
+
 Writeups for challenges written in Spanish or English posted in:
 -  Twitter [@Hackers4F](https://twitter.com/hackers4f)
 -  Fb [Hackers4Fun Team](https://www.facebook.com/Hackers4F)
 - Instagram [#Hackers4Fun](https://www.instagram.com/hackers4f/)
+
 ![hackers4fun_writeups_logo](https://github.com/hackers4f/hackers4fun-writeups/raw/master/images/T34m_l0G0_H4F.jpg)
 
 ## Disclaimer
@@ -15,8 +17,9 @@ Writeups for challenges written in Spanish or English posted in:
 
 ## Submissions
 
-Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@ Hackers4F] (https://twitter.com/hackers4f) or an email to: ** hackers4fun.iesfranciscoumbral_at_gmail.com **
-# Contributors
+Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@ Hackers4F] (https://twitter.com/hackers4f) or an email to: **hackers4fun.iesfranciscoumbral_at_gmail.com**
+
+## Contributors
 | No  | Ctry  | Nick  | Challenge  |
 | ------------ | ------------ | ------------ | ------------ |
 | 1  | :tw-1f1ea-1f1f8:  |   |   |
