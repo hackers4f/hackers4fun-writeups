@@ -24,7 +24,7 @@
 
 ## Writeup
 
-- Author [1v4n Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges\Misc\H&BGuadalajara-Challenges-Gr33tings Pr0F3s0R F4lk3n-Misc-1v4n)
+- Author [1v4n Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/H&BGuadalajara-Challenges-Gr33tings Pr0F3s0R F4lk3n-Misc-1v4n)
 
 ## Mentions
 
