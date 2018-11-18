@@ -6,7 +6,7 @@
 - **Category:** Misc
 - **Difficulty:** Medium-Low
 
-- NORAD COC analysts detect unusual traffic. The incident is transferred to the FBI, they make arrests to a teenager named David. You can help us discover secrets ... The format H4F {md5}.
+- NORAD COC analysts detect unusual traffic. The incident is transferred to the FBI, they make arrests to a teenager named David. You can help us discover secrets ...
 
 ## Objetivo
 
@@ -24,7 +24,7 @@
 
 ## Writeup
 
-- Author [1v4n Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges\Misc\Reto_16_H&B_Gr33tings_Pr0F3s0R_F4lk3n/H&B-Challenges-Misc-H4F-1v4n_.pdf)
+- Author [1v4n Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges\Misc\H&BGuadalajara-Challenges-Gr33tings Pr0F3s0R F4lk3n-Misc-1v4n)
 
 ## Mentions
 
