@@ -14,13 +14,14 @@
 
 ## Posted
 
-![hackers4fun_reto_16_post_tw](./Reto_16_tw_post.png)
 - [Link](https://twitter.com/Hackers4F/status/1060479987323731968)
+![hackers4fun_reto_16_post_tw](./Reto_16_tw_post.png)
 
 ## Presented
 
-![hackers4fun_reto_16_hbguadalajara_post_tw](./Reto_16_hbguadalajara_tw_post.png)
+- [Slides](https://www.slideshare.net/labaliza/exfiltrate-your-friki-metadata-vol2-hackbeers-guadalajara-by-honeycon-vol-3)
 - [Link](https://twitter.com/Hackers4F/status/1060612446799515650)
+![hackers4fun_reto_16_hbguadalajara_post_tw](./Reto_16_hbguadalajara_tw_post.png)
 
 ## Writeup
 
