@@ -17,7 +17,7 @@ Writeups for challenges written in Spanish or English posted in:
 
 ## Submissions
 
-Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@Hackers4F] (https://twitter.com/hackers4f) or an email to: **hackers4fun.iesfranciscoumbral_at_gmail.com**
+Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@Hackers4F] (https://twitter.com/hackers4f) or an email to: **hackers4fun_dot_iesfranciscoumbral_at_gmail_dot_com**
 
 ## Contributors
 
