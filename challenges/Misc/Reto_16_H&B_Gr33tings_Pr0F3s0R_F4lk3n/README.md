@@ -8,7 +8,7 @@
 
 - NORAD COC analysts detect unusual traffic. The incident is transferred to the FBI, they make arrests to a teenager named David. You can help us discover secrets ...
 
-## Objetivo
+## Target
 
 - Format of the flag: *flag{md5}*
 
