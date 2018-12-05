@@ -8,10 +8,6 @@
 
 - We have received a message from a friend who is passionate about computer security. The truth is that the file you sent us makes us very sick. Could you help us decipher it?
 
-## Hint
-
--  [Be careful decoding and the flag is a  text in 'UPPERCASE'](https://twitter.com/Hackers4F/status/1060227203995189249)
-
 ## Target
 
 - Format of the flag: *text*
@@ -22,6 +18,10 @@
 ![hackers4fun_reto_15_post_tw](./Reto_15_tw_post.png)
 
 - [Artifact](https://goo.gl/gEGhhR)
+
+## Hint
+
+-  [Be careful decoding and the flag is a  text in 'UPPERCASE'](https://twitter.com/Hackers4F/status/1060227203995189249)
 
 ## Hall of Fame
 
