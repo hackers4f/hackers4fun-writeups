@@ -37,7 +37,9 @@
 > 👍🏆[David Utón Writeup online](https://www.hackplayers.com/2018/05/solucion-al-reto-25-la-taberna-del-patito.html) && [David Utón Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/Reto_H4F_9_Hackplayers_24_Sure%20you%20can/Sure_you_can_Reto_9_H4F_24_Hackplayers_writeup_David_Uton.pdf)
 
 > [EA4FSV Writeup online](https://www.dropbox.com/sh/2bs63ik4b5vhe70/AAD9ZpojUbTluBjMi8VOUcHJa) && [EA4FSV Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/Reto_H4F_9_Hackplayers_24_Sure%20you%20can/Sure_you_can_Reto_9_H4F_24_Hackplayers_writeup_EAFSV.txt)
+
 > [Frantkdz Writeup online](https://drive.google.com/file/d/1CU-4eSGasO-D0g0C_ba8D1hkw1o8vIYW) && [Frantkdz Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/Reto_H4F_9_Hackplayers_24_Sure%20you%20can/Sure_you_can_Reto_9_H4F_24_Hackplayers_writeup_Frantkdz.pdf)
+
 > [KerosenoDev Writeup online](https://docs.google.com/document/d/1SWqDrb5xfFSj7Rg2E1bVYq9N0m_kHDZFjdGs_khxAbc) && [KerosenoDev Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/Reto_H4F_9_Hackplayers_24_Sure%20you%20can/Sure_you_can_Reto_9_H4F_24_Hackplayers_writeup_KerosenoDev.pdf)
 
 ## Mentions
