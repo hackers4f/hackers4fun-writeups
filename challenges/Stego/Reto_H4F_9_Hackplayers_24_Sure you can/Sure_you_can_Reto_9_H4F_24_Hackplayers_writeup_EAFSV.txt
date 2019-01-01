@@ -1,0 +1,17 @@
+1º - Tenemos la imagen de la entrada a la taberna, a simple vista se puede apreciar un hash en la parte inferior izquierda. 
+Aplicando distintos filtros con la tool "Stegsolve" se puede ver claramente el HASH 04d3fd70ef5d2de53e31c50b91a50bf7.
+
+2º - Ahora que tenemos un hash, vemos que se trata de un MD5 por lo que tiramos de los métodos habituales para crackearlo. 
+Con la tool "Findmyhash" conseguimos crackearlo gracias a la web md5online y encontramos una url acortada "goo.gl/48jej6"
+
+3º - Partiendo de la url anterior, llegamos a otra imagen alojada en google drive donde vemos a la princesa Brave sosteniendo un arco. 
+Tras aplicar distintas técnicas y filtros no obtenemos nada interesante, tendremos que buscar un poco más profundo.
+
+4º - Revisamos el archivo con nuestro editor HEX favorito para buscar headers de otros archivos sin suerte.
+Con las herramientas típicas como foremost y binwalk tampoco sacamos nada por lo que procedemos a revisar la entropía del archivo y ya podemos ver más claro el camino a seguir.
+
+5º - Lo siguiente que tenemos que hacer es buscar con que software se ha ocultado la información, en este caso es "StegHide" y con la pass en blanco, nos extrae correctamente un archivo txt.
+El archivo extraído se llama "steganopayload27837.txt" y contiene otro hash MD5 867a375cec13208995192cd7b61a183b.
+
+6º - Volvemos a recurrir a la tool "Findmyhash" y del MD5 desencriptamos una cadena en base64 "SDRGeyNYMVJlZE1hc1NlZ3VyYV8jWW9RdWVUdUlyaWF9".
+Una vez descifrada la cadena nos da la flag H4F{#X1RedMasSegura_#YoQueTuIria} y reto conseguido.
