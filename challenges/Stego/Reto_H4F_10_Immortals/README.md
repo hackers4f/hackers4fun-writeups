@@ -26,7 +26,7 @@
 
 ### Writeups
 
-> 👍🏆[David Utón Writeup online](https://elmalodebatman.blogspot.com/2018/05/writeup-reto-10-ctf-hackers4fun-h4f.html) && [David Utón Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/)
+> 👍🏆[David Utón Writeup online](https://elmalodebatman.blogspot.com/2018/05/writeup-reto-10-ctf-hackers4fun-h4f.html) && [David Utón Writeup github](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Stego/Reto_H4F_10_Immortals/Immortals_Reto_10_H4F_writeup_David_Uton.pdf)
 
 ## Mentions
 
