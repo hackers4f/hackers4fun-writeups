@@ -6,11 +6,11 @@
 - **Category:** Misc
 - **Difficulty:** Medium-Low
 
-- Our Head of Technical Operations for DPD in the "agency" has received a file of an intercepted radio transmission on the 17855 kHz frequency, 16 meter band, from Arlington (Virginia). It is suspected that the well-known hacker "Tash" took advantage of the country of emission to transmit an encrypted message.
+> Our Head of Technical Operations for DPD in the "agency" has received a file of an intercepted radio transmission on the 17855 kHz frequency, 16 meter band, from Arlington (Virginia). It is suspected that the well-known hacker "Tash" took advantage of the country of emission to transmit an encrypted message.
 
 ## Target
 
-- Format of the flag: *flag{text}*
+> Format of the flag: *flag{text}*
 
 ## Posted
 

@@ -6,11 +6,11 @@
 - **Category:** Misc
 - **Difficulty:** Medium-Low
 
-- NORAD COC analysts detect unusual traffic. The incident is transferred to the FBI, they make arrests to a teenager named David. You can help us discover secrets ...
+> NORAD COC analysts detect unusual traffic. The incident is transferred to the FBI, they make arrests to a teenager named David. You can help us discover secrets ...
 
 ## Target
 
-- Format of the flag: *flag{md5}*
+> Format of the flag: *flag{md5}*
 
 ## Posted
 
