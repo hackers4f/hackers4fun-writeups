@@ -28,4 +28,4 @@
 
 ## Mentions
 
-- 👌 Thanks to [@Honey_SEC](https://twitter.com/Honey_SEC) for offering to collaborate in the [#Morteruelo2019](https://twitter.com/hashtag/Morteruelo2019) of [@morteruelocon](https://twitter.com/morteruelocon)
+- 👌 Thanks to [@Morteruelocon](https://twitter.com/morteruelocon) for offering to collaborate in the [#Morteruelo2019](https://twitter.com/hashtag/Morteruelo2019)
