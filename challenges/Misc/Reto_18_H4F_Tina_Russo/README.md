@@ -25,7 +25,8 @@
 ### Writeups
 
 - 👍🏆[DarkEagle Writeup](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/Reto_18_H4F_Tina_Russo/Tina_Russo_Reto_18_H4F_writeup_DarkEagle.pdf)
+- Author [1v4n Writeup](https://github.com/hackers4f/hackers4fun-writeups/blob/master/challenges/Misc/Reto_18_H4F_Tina_Russo/Tina_Russo_Reto_18_H4F_writeup_1v4n.pdf)
 
 ## Mentions
 
-- 👌 Thanks to [@Morteruelocon](https://twitter.com/morteruelocon) for offering to collaborate in the [#Morteruelo2019](https://twitter.com/hashtag/Morteruelo2019)
+- 👌 Thanks to [@Morteruelocon](https://twitter.com/morteruelocon) for offering to collaborate w/ CTF4Kids in the X1RedMasSegura Track [#Morteruelo2019](https://twitter.com/hashtag/Morteruelo2019)
