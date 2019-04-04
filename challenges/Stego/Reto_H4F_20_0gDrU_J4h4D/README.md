@@ -20,9 +20,9 @@
 ### Hall of Fame
 
 - $> 🥇 [@DarkEagle_CAT](https://twitter.com/DarkEagle_CAT)
-🥈 [@EA4FSV](https://twitter.com/EA4FSV)
-🥉 [@ariel_anonis](https://twitter.com/ariel_anonis)
-📝 [@David_Uton](https://twitter.com/David_Uton)
+- 🥈 [@EA4FSV](https://twitter.com/EA4FSV)
+- 🥉 [@ariel_anonis](https://twitter.com/ariel_anonis)
+- 📝 [@David_Uton](https://twitter.com/David_Uton)
 
 ### Writeups
 
