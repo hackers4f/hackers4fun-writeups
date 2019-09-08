@@ -9,7 +9,7 @@ Writeups for challenges written in Spanish or English posted in:
 
 ## Disclaimer
 
-> 1. The objective of publishing the writeups of the cybersecurity challenges proposed in the Hackers4Fun Team is for educational purposes to learn how to improve Internet Safety.
+> 1. The objective of publishing the writeups of the cybersecurity challenges proposed in the H4ck3rs4FunCTF Team is for educational purposes to learn how to improve Internet Safety.
 
 > 2. The knowledge that will be shared, all of them aimed at an ethical practice, if you use them for unsuitable practices or in accordance with the legislation would be solely your responsibility.
 
