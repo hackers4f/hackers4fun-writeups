@@ -14,7 +14,7 @@
 
 ## Posted
 
-- [Link](https://twitter.com/Hackers4F/status/1060479987323731968)
+- [Link](https://twitter.com/H4ck3rs4FunCTF/status/1060479987323731968)
 ![hackers4fun_reto_16_post_tw](./Reto_16_tw_post.png)
 
 ## Presented

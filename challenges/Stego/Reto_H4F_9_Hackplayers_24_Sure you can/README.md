@@ -15,7 +15,7 @@
 ### Posted
 
 ![hackers4fun_reto_9_post_tw](./Reto_9_tw_post.png)
-- [Link](https://twitter.com/Hackers4F/status/991597426581516288)
+- [Link](https://twitter.com/H4ck3rs4FunCTF/status/991597426581516288)
 
 ![hackplayers_reto_9_post](./Reto_9_hackplayers_post.png)
 - [Link](https://www.hackplayers.com/2018/05/reto-24-la-taberna-del-patito-modosito.html)

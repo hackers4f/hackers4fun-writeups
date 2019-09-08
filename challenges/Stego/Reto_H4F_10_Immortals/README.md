@@ -15,7 +15,7 @@
 ### Posted
 
 ![hackers4fun_reto_10_post_tw](./Reto_10_tw_post.png)
-- [Link](https://twitter.com/Hackers4F/status/999745935835041792)
+- [Link](https://twitter.com/H4ck3rs4FunCTF/status/999745935835041792)
 
 
 ### Hall of Fame
