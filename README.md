@@ -1,7 +1,7 @@
-# Hackers4Fun-Challenges-Writeups
+# H4ck3rs4FunCTF-Challenges-Writeups
 
 Writeups for challenges written in Spanish or English posted in:
-- Twitter [@Hackers4F](https://twitter.com/hackers4f)
+- Twitter [@H4ck3rs4FunCTF](https://twitter.com/H4ck3rs4FunCTF)
 - Fb [Hackers4Fun Team](https://www.facebook.com/Hackers4F)
 - Instagram [#Hackers4Fun](https://www.instagram.com/hackers4f/)
 
@@ -17,7 +17,7 @@ Writeups for challenges written in Spanish or English posted in:
 
 ## Submissions
 
-> Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@Hackers4F] (https://twitter.com/hackers4f) or an email to: **hackers4fun_dot_iesfranciscoumbral_at_gmail_dot_com**
+> Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@H4ck3rs4FunCTF] (https://twitter.com/H4ck3rs4FunCTF) or an email to: **hackers4functfteam_at_gmail_dot_com**
 
 ## Contributors
 
