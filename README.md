@@ -17,7 +17,7 @@ Writeups for challenges written in Spanish or English posted in:
 
 ## Submissions
 
-> Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@H4ck3rs4FunCTF] (https://twitter.com/H4ck3rs4FunCTF) or an email to: **hackers4functfteam_at_gmail_dot_com**
+> Send us your own summaries to solve the challenges, you can do it through a DM through Twitter [@H4ck3rs4FunCTF](https://twitter.com/H4ck3rs4FunCTF) or an email to: **hackers4functfteam_at_gmail_dot_com**
 
 ## Contributors
 
