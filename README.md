@@ -1,4 +1,4 @@
-# H4ck3rs4FunCTF-Challenges-Writeups
+# H4ck3rs4FunCTF Challenges Writeups
 
 Writeups for challenges written in Spanish or English posted in:
 - Twitter [@H4ck3rs4FunCTF](https://twitter.com/H4ck3rs4FunCTF)
