@@ -21,9 +21,9 @@
 
 ## Hints
 
->  [Vamos por buen camino al encontrar ayuda👉"quipqiup"](https://twitter.com/Hackers4F/status/1124254427236446208)
+>  [Vamos por buen camino al encontrar ayuda👉"quipqiup"](https://twitter.com/H4ck3rs4FunCTF/status/1124254427236446208)
 
-> [Necesitamos afinar más nuestro ataque a la stego y encontramos un diccionario q te puede ayudar https://github.com/nrakochy/known-passwords/blob/429693ff79c128eccaaac807747632754fbb5534/sorted/d3.txt](https://twitter.com/Hackers4F/status/1125039693152837632)
+> [Necesitamos afinar más nuestro ataque a la stego y encontramos un diccionario q te puede ayudar https://github.com/nrakochy/known-passwords/blob/429693ff79c128eccaaac807747632754fbb5534/sorted/d3.txt](https://twitter.com/H4ck3rs4FunCTF/status/1125039693152837632)
 
 ## Hall of Fame
 
