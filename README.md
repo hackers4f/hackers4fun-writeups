@@ -2,8 +2,8 @@
 
 Writeups for challenges written in Spanish or English posted in:
 - Twitter [@H4ck3rs4FunCTF](https://twitter.com/H4ck3rs4FunCTF)
-- Fb [Hackers4Fun Team](https://www.facebook.com/Hackers4F)
-- Instagram [H4ck3rs4Fun](https://www.instagram.com/H4ck3rs4FunCTF/)
+- Fb [@H4ck3rs4FunCTF](https://fb.me/H4ck3rs4FunCTF)
+- Instagram [@H4ck3rs4Fun](https://www.instagram.com/H4ck3rs4FunCTF/)
 
 ![hackers4fun_writeups_logo](./images/T34m_l0G0_H4F.jpg)
 
